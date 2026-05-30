@@ -47,6 +47,7 @@ I also have experience as a **Research Programmer**, working with data curation,
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 
 <p align="left">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
