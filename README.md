@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ariadna Uxue Palomino Ylla</h1>
+<h1 align="center">Hi 👋, I'm Ariadna Uxue </h1>
 
 <h3 align="center">
 Physics PhD student exploring Machine Learning, Scientific Computing, and Data-Driven Research
@@ -84,7 +84,6 @@ Machine learning and deep learning pipelines for visual defect classification, i
 ### 📫 Contact
 
 - Email: **ariadnauxue@gmail.com**
-- GitHub: **[@Uxuee](https://github.com/Uxuee)**
 
 ---
 
