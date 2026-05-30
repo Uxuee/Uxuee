@@ -46,7 +46,6 @@ I also have experience as a **Research Programmer**, working with data curation,
   <img src="https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolfram&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 
 <p align="left">
@@ -76,7 +75,7 @@ Machine learning and deep learning pipelines for visual defect classification, i
 ### 🌱 Currently learning
 
 - Machine Learning engineering with Python  
-- Scientific ML and surrogate modeling  
+- Scientific ML and surrogate modelling  
 - Deep learning for image and scientific data  
 - Better software engineering practices for research code  
 
