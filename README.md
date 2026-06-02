@@ -119,7 +119,6 @@ I also have experience as a **Research Programmer**, working with data curation,
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/AI%20Agents-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLM%20Workflows-6B46C1?style=for-the-badge"/>
 </p>
 
 ---
