@@ -166,7 +166,6 @@ Data curation and automation workflows for structured research data, including r
 ### 📫 Contact
 
 - Email: **ariadnauxue@gmail.com**
-- GitHub: **github.com/Uxuee**
 
 ---
 
