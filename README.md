@@ -163,7 +163,7 @@ Data curation and automation workflows for structured research data, including r
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=uxuee&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Uxuee&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 📫 Contact
