@@ -165,9 +165,13 @@ Data curation and automation workflows for structured research data, including r
 
 🏆 github trophies
 
-<div align="center">""Trophies" (https://github-trophies.vercel.app/?username=Uxuee&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=1&cache_seconds=86400)" (https://github.com/Uxuee)
+<div align="center">
+
+[![Trophies](https://github-trophies.vercel.app/?username=uxuee&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=1&cache_seconds=86400)](https://github.com/uxuee)
+
 
 </div>
+
 ---
 
 ### 📫 Contact
