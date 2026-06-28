@@ -163,8 +163,11 @@ Data curation and automation workflows for structured research data, including r
 
 ---
 
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=Uxuee&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+🏆 github trophies
 
+<div align="center">""Trophies" (https://github-trophies.vercel.app/?username=Uxuee&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=1&cache_seconds=86400)" (https://github.com/Uxuee)
+
+</div>
 ---
 
 ### 📫 Contact
