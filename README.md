@@ -159,8 +159,11 @@ Data curation and automation workflows for structured research data, including r
 - AI agents and local-first assistant tools  
 - Scientific ML and surrogate modelling  
 - Software engineering practices for research code  
-- Portfolio projects for AI/ML research and data science roles  
+- Portfolio projects for AI/ML research and data science roles 
 
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 📫 Contact
