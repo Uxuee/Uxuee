@@ -163,7 +163,7 @@ Data curation and automation workflows for structured research data, including r
 
 ---
 
-🏆 github trophies
+### 🏆 Github trophies
 
 <div align="center">
 
